@@ -8,9 +8,9 @@
 #ifndef __PWM_CFG__
 #define __PWM_CFG__
 
-#define OC0  1
+#define OC0  0
 #define OC1A 0
 #define OC1B 0
-#define OC2 0
+#define OC2  1
 
 #endif
